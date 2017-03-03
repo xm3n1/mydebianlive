@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt-get install  live-config
+apt-get install  live-config -y 
 
 
 
